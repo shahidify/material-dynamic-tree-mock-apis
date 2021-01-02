@@ -1,0 +1,39 @@
+{
+  "name": "material-dynamic-tree-mock-apis",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "main": "src/index.js",
+  "dependencies": {
+    "@material-ui/core": "4.11.2",
+    "@material-ui/icons": "4.11.2",
+    "@material-ui/lab": "4.0.0-alpha.56",
+    "@material-ui/styles": "4.11.2",
+    "classnames": "^2.2.6",
+    "faker": "5.1.0",
+    "focus-trap-react": "^8.3.2",
+    "formik": "2.2.5",
+    "material-ui-tree": "2.2.3",
+    "miragejs": "0.1.41",
+    "react": "16.14.0",
+    "react-dom": "16.14.0",
+    "react-scripts": "4.0.1",
+    "superagent": "5.1.0"
+  },
+  "devDependencies": {
+    "miragejs": "^0.1.41",
+    "typescript": "3.8.3"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
